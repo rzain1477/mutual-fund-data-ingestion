@@ -1,0 +1,3 @@
+file_name,rows,columns,missing_values,duplicate_rows
+fund_master.csv,6,2,0,0
+live_nav_history.csv,20330,5,0,0
