@@ -1,0 +1,24 @@
+@'
+import pandas as pd
+from pathlib import Path
+
+output_dir = Path("data/raw")
+output_dir.mkdir(parents=True, exist_ok=True)
+
+funds = [
+    {"scheme_code": 125497, "fund_name": "HDFC Top 100 Direct"},
+    {"scheme_code": 119551, "fund_name": "SBI Bluechip"},
+    {"scheme_code": 120503, "fund_name": "ICICI Bluechip"},
+    {"scheme_code": 118632, "fund_name": "Nippon Large Cap"},
+    {"scheme_code": 119092, "fund_name": "Axis Bluechip"},
+    {"scheme_code": 120841, "fund_name": "Kotak Bluechip"},
+]
+
+df = pd.DataFrame(funds)
+file_path = output_dir / "fund_master.csv"
+df.to_csv(file_path, index=False)
+
+print("Fund master created:", file_path)
+print(df.to_string(index=False))
+'@ | Set-Content -Encoding UTF8 create_fund_master.py
+python .\create_fund_master.py
