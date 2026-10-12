@@ -1,3 +1,9 @@
 file_name,rows,columns,missing_values,duplicate_rows
 fund_master.csv,6,2,0,0
 live_nav_history.csv,20336,5,0,0
+public_nav_100027.csv,531,4,0,0
+public_nav_100028.csv,531,4,0,0
+public_nav_100029.csv,531,4,0,0
+public_nav_100030.csv,531,4,0,0
+public_nav_100031.csv,531,4,0,0
+public_scheme_master.csv,37954,4,62946,0
