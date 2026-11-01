@@ -1,0 +1,17 @@
+ADVANCED ANALYTICS DATA LIMITATION
+==================================
+The supplied project directory did not contain verified investor transaction
+history or verified portfolio/sector holdings. This script generated SIMULATED
+demo datasets only to demonstrate the requested calculations.
+
+Generated files:
+- data/raw/SIMULATED_demo_investor_transactions.csv
+- data/raw/SIMULATED_demo_sector_holdings.csv
+- reports/investor_cohort_analysis.csv
+- reports/sip_continuity_analysis.csv
+- reports/sector_hhi_analysis.csv
+
+All generated results are labelled SIMULATED_DEMO_NOT_REAL. They must not be
+reported as actual investor behaviour or actual fund sector exposure. Replace
+the simulated input datasets with verified transaction and holdings data before
+drawing real conclusions.

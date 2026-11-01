@@ -1,0 +1,299 @@
+scheme_code,fund_name,sector,weight_pct,data_type
+118632,Nippon Large Cap,Communication Services,7.291813,SIMULATED_DEMO_NOT_REAL
+118632,Nippon Large Cap,Real Estate,9.026027,SIMULATED_DEMO_NOT_REAL
+118632,Nippon Large Cap,Financial Services,6.896803,SIMULATED_DEMO_NOT_REAL
+118632,Nippon Large Cap,Materials,11.592878,SIMULATED_DEMO_NOT_REAL
+118632,Nippon Large Cap,Healthcare,10.839318,SIMULATED_DEMO_NOT_REAL
+118632,Nippon Large Cap,Information Technology,9.27011,SIMULATED_DEMO_NOT_REAL
+118632,Nippon Large Cap,Energy,19.75031,SIMULATED_DEMO_NOT_REAL
+118632,Nippon Large Cap,Consumer Goods,17.38651,SIMULATED_DEMO_NOT_REAL
+118632,Nippon Large Cap,Industrials,7.94623,SIMULATED_DEMO_NOT_REAL
+119092,Axis Bluechip,Energy,12.842241,SIMULATED_DEMO_NOT_REAL
+119092,Axis Bluechip,Utilities,6.571277,SIMULATED_DEMO_NOT_REAL
+119092,Axis Bluechip,Communication Services,12.949883,SIMULATED_DEMO_NOT_REAL
+119092,Axis Bluechip,Consumer Goods,11.41348,SIMULATED_DEMO_NOT_REAL
+119092,Axis Bluechip,Information Technology,18.032316,SIMULATED_DEMO_NOT_REAL
+119092,Axis Bluechip,Materials,10.350386,SIMULATED_DEMO_NOT_REAL
+119092,Axis Bluechip,Healthcare,27.840418,SIMULATED_DEMO_NOT_REAL
+119551,SBI Bluechip,Information Technology,9.961333,SIMULATED_DEMO_NOT_REAL
+119551,SBI Bluechip,Materials,12.654147,SIMULATED_DEMO_NOT_REAL
+119551,SBI Bluechip,Energy,23.67045,SIMULATED_DEMO_NOT_REAL
+119551,SBI Bluechip,Healthcare,13.63815,SIMULATED_DEMO_NOT_REAL
+119551,SBI Bluechip,Communication Services,7.369875,SIMULATED_DEMO_NOT_REAL
+119551,SBI Bluechip,Utilities,1.079116,SIMULATED_DEMO_NOT_REAL
+119551,SBI Bluechip,Real Estate,5.142667,SIMULATED_DEMO_NOT_REAL
+119551,SBI Bluechip,Industrials,12.113463,SIMULATED_DEMO_NOT_REAL
+119551,SBI Bluechip,Consumer Goods,8.929594,SIMULATED_DEMO_NOT_REAL
+119551,SBI Bluechip,Financial Services,5.441204,SIMULATED_DEMO_NOT_REAL
+120503,ICICI Bluechip,Energy,4.200593,SIMULATED_DEMO_NOT_REAL
+120503,ICICI Bluechip,Utilities,14.326208,SIMULATED_DEMO_NOT_REAL
+120503,ICICI Bluechip,Materials,11.249591,SIMULATED_DEMO_NOT_REAL
+120503,ICICI Bluechip,Consumer Goods,7.355136,SIMULATED_DEMO_NOT_REAL
+120503,ICICI Bluechip,Communication Services,15.839341,SIMULATED_DEMO_NOT_REAL
+120503,ICICI Bluechip,Industrials,23.084068,SIMULATED_DEMO_NOT_REAL
+120503,ICICI Bluechip,Information Technology,23.945061,SIMULATED_DEMO_NOT_REAL
+120841,Kotak Bluechip,Information Technology,26.211049,SIMULATED_DEMO_NOT_REAL
+120841,Kotak Bluechip,Real Estate,19.518915,SIMULATED_DEMO_NOT_REAL
+120841,Kotak Bluechip,Communication Services,30.609469,SIMULATED_DEMO_NOT_REAL
+120841,Kotak Bluechip,Energy,10.475929,SIMULATED_DEMO_NOT_REAL
+120841,Kotak Bluechip,Financial Services,13.184638,SIMULATED_DEMO_NOT_REAL
+125497,HDFC Top 100 Direct,Utilities,7.588926,SIMULATED_DEMO_NOT_REAL
+125497,HDFC Top 100 Direct,Real Estate,37.139825,SIMULATED_DEMO_NOT_REAL
+125497,HDFC Top 100 Direct,Materials,4.102443,SIMULATED_DEMO_NOT_REAL
+125497,HDFC Top 100 Direct,Industrials,18.215541,SIMULATED_DEMO_NOT_REAL
+125497,HDFC Top 100 Direct,Financial Services,3.15147,SIMULATED_DEMO_NOT_REAL
+125497,HDFC Top 100 Direct,Communication Services,29.801795,SIMULATED_DEMO_NOT_REAL
+100027,Grindlays Super Saver Income Fund-GSSIF-Half Yearly Dividend,Financial Services,4.038528,SIMULATED_DEMO_NOT_REAL
+100027,Grindlays Super Saver Income Fund-GSSIF-Half Yearly Dividend,Consumer Goods,12.947526,SIMULATED_DEMO_NOT_REAL
+100027,Grindlays Super Saver Income Fund-GSSIF-Half Yearly Dividend,Healthcare,36.882881,SIMULATED_DEMO_NOT_REAL
+100027,Grindlays Super Saver Income Fund-GSSIF-Half Yearly Dividend,Utilities,22.776827,SIMULATED_DEMO_NOT_REAL
+100027,Grindlays Super Saver Income Fund-GSSIF-Half Yearly Dividend,Communication Services,19.54451,SIMULATED_DEMO_NOT_REAL
+100027,Grindlays Super Saver Income Fund-GSSIF-Half Yearly Dividend,Energy,3.809728,SIMULATED_DEMO_NOT_REAL
+100028,Grindlays Super Saver Income Fund-GSSIF-Quaterly Dividend,Consumer Goods,36.585945,SIMULATED_DEMO_NOT_REAL
+100028,Grindlays Super Saver Income Fund-GSSIF-Quaterly Dividend,Energy,16.843354,SIMULATED_DEMO_NOT_REAL
+100028,Grindlays Super Saver Income Fund-GSSIF-Quaterly Dividend,Financial Services,4.325157,SIMULATED_DEMO_NOT_REAL
+100028,Grindlays Super Saver Income Fund-GSSIF-Quaterly Dividend,Materials,3.407911,SIMULATED_DEMO_NOT_REAL
+100028,Grindlays Super Saver Income Fund-GSSIF-Quaterly Dividend,Communication Services,10.66338,SIMULATED_DEMO_NOT_REAL
+100028,Grindlays Super Saver Income Fund-GSSIF-Quaterly Dividend,Information Technology,28.174253,SIMULATED_DEMO_NOT_REAL
+100029,Grindlays Super Saver Income Fund-GSSIF-Growth,Financial Services,50.978759,SIMULATED_DEMO_NOT_REAL
+100029,Grindlays Super Saver Income Fund-GSSIF-Growth,Materials,15.15596,SIMULATED_DEMO_NOT_REAL
+100029,Grindlays Super Saver Income Fund-GSSIF-Growth,Real Estate,11.680601,SIMULATED_DEMO_NOT_REAL
+100029,Grindlays Super Saver Income Fund-GSSIF-Growth,Healthcare,10.719561,SIMULATED_DEMO_NOT_REAL
+100029,Grindlays Super Saver Income Fund-GSSIF-Growth,Industrials,3.603099,SIMULATED_DEMO_NOT_REAL
+100029,Grindlays Super Saver Income Fund-GSSIF-Growth,Communication Services,7.86202,SIMULATED_DEMO_NOT_REAL
+100030,Grindlays Super Saver Income Fund-GSSIF-Annual Dividend,Industrials,9.358121,SIMULATED_DEMO_NOT_REAL
+100030,Grindlays Super Saver Income Fund-GSSIF-Annual Dividend,Communication Services,18.240641,SIMULATED_DEMO_NOT_REAL
+100030,Grindlays Super Saver Income Fund-GSSIF-Annual Dividend,Healthcare,1.543754,SIMULATED_DEMO_NOT_REAL
+100030,Grindlays Super Saver Income Fund-GSSIF-Annual Dividend,Utilities,20.925205,SIMULATED_DEMO_NOT_REAL
+100030,Grindlays Super Saver Income Fund-GSSIF-Annual Dividend,Consumer Goods,14.687688,SIMULATED_DEMO_NOT_REAL
+100030,Grindlays Super Saver Income Fund-GSSIF-Annual Dividend,Financial Services,20.74353,SIMULATED_DEMO_NOT_REAL
+100030,Grindlays Super Saver Income Fund-GSSIF-Annual Dividend,Information Technology,9.963075,SIMULATED_DEMO_NOT_REAL
+100030,Grindlays Super Saver Income Fund-GSSIF-Annual Dividend,Materials,4.537985,SIMULATED_DEMO_NOT_REAL
+100031,Grindlays Super Saver Income Fund-GSSIF - ST-Dividend,Information Technology,4.909302,SIMULATED_DEMO_NOT_REAL
+100031,Grindlays Super Saver Income Fund-GSSIF - ST-Dividend,Consumer Goods,4.049636,SIMULATED_DEMO_NOT_REAL
+100031,Grindlays Super Saver Income Fund-GSSIF - ST-Dividend,Industrials,11.680789,SIMULATED_DEMO_NOT_REAL
+100031,Grindlays Super Saver Income Fund-GSSIF - ST-Dividend,Real Estate,3.851906,SIMULATED_DEMO_NOT_REAL
+100031,Grindlays Super Saver Income Fund-GSSIF - ST-Dividend,Communication Services,21.568243,SIMULATED_DEMO_NOT_REAL
+100031,Grindlays Super Saver Income Fund-GSSIF - ST-Dividend,Healthcare,39.188538,SIMULATED_DEMO_NOT_REAL
+100031,Grindlays Super Saver Income Fund-GSSIF - ST-Dividend,Financial Services,7.811941,SIMULATED_DEMO_NOT_REAL
+100031,Grindlays Super Saver Income Fund-GSSIF - ST-Dividend,Utilities,5.375759,SIMULATED_DEMO_NOT_REAL
+100031,Grindlays Super Saver Income Fund-GSSIF - ST-Dividend,Materials,1.563886,SIMULATED_DEMO_NOT_REAL
+122639,Parag Parikh Flexi Cap Fund - Direct Plan - Growth,Information Technology,4.51385,SIMULATED_DEMO_NOT_REAL
+122639,Parag Parikh Flexi Cap Fund - Direct Plan - Growth,Communication Services,2.93234,SIMULATED_DEMO_NOT_REAL
+122639,Parag Parikh Flexi Cap Fund - Direct Plan - Growth,Utilities,11.969025,SIMULATED_DEMO_NOT_REAL
+122639,Parag Parikh Flexi Cap Fund - Direct Plan - Growth,Healthcare,1.558647,SIMULATED_DEMO_NOT_REAL
+122639,Parag Parikh Flexi Cap Fund - Direct Plan - Growth,Energy,22.547104,SIMULATED_DEMO_NOT_REAL
+122639,Parag Parikh Flexi Cap Fund - Direct Plan - Growth,Real Estate,19.161552,SIMULATED_DEMO_NOT_REAL
+122639,Parag Parikh Flexi Cap Fund - Direct Plan - Growth,Consumer Goods,2.178137,SIMULATED_DEMO_NOT_REAL
+122639,Parag Parikh Flexi Cap Fund - Direct Plan - Growth,Industrials,35.139344,SIMULATED_DEMO_NOT_REAL
+118825,Mirae Asset Large Cap Fund - Direct Plan - Growth,Communication Services,5.064463,SIMULATED_DEMO_NOT_REAL
+118825,Mirae Asset Large Cap Fund - Direct Plan - Growth,Healthcare,16.954956,SIMULATED_DEMO_NOT_REAL
+118825,Mirae Asset Large Cap Fund - Direct Plan - Growth,Consumer Goods,9.003484,SIMULATED_DEMO_NOT_REAL
+118825,Mirae Asset Large Cap Fund - Direct Plan - Growth,Information Technology,19.828837,SIMULATED_DEMO_NOT_REAL
+118825,Mirae Asset Large Cap Fund - Direct Plan - Growth,Materials,3.006581,SIMULATED_DEMO_NOT_REAL
+118825,Mirae Asset Large Cap Fund - Direct Plan - Growth,Real Estate,8.403202,SIMULATED_DEMO_NOT_REAL
+118825,Mirae Asset Large Cap Fund - Direct Plan - Growth,Industrials,9.813913,SIMULATED_DEMO_NOT_REAL
+118825,Mirae Asset Large Cap Fund - Direct Plan - Growth,Energy,1.53976,SIMULATED_DEMO_NOT_REAL
+118825,Mirae Asset Large Cap Fund - Direct Plan - Growth,Utilities,26.384804,SIMULATED_DEMO_NOT_REAL
+118778,Nippon India Small Cap Fund - Direct Plan - Growth Option,Real Estate,6.831908,SIMULATED_DEMO_NOT_REAL
+118778,Nippon India Small Cap Fund - Direct Plan - Growth Option,Information Technology,15.87952,SIMULATED_DEMO_NOT_REAL
+118778,Nippon India Small Cap Fund - Direct Plan - Growth Option,Utilities,9.755907,SIMULATED_DEMO_NOT_REAL
+118778,Nippon India Small Cap Fund - Direct Plan - Growth Option,Consumer Goods,6.475571,SIMULATED_DEMO_NOT_REAL
+118778,Nippon India Small Cap Fund - Direct Plan - Growth Option,Industrials,10.868586,SIMULATED_DEMO_NOT_REAL
+118778,Nippon India Small Cap Fund - Direct Plan - Growth Option,Communication Services,14.96254,SIMULATED_DEMO_NOT_REAL
+118778,Nippon India Small Cap Fund - Direct Plan - Growth Option,Energy,10.079091,SIMULATED_DEMO_NOT_REAL
+118778,Nippon India Small Cap Fund - Direct Plan - Growth Option,Financial Services,7.935751,SIMULATED_DEMO_NOT_REAL
+118778,Nippon India Small Cap Fund - Direct Plan - Growth Option,Healthcare,17.211127,SIMULATED_DEMO_NOT_REAL
+120828,Quant Small Cap Fund - Direct Plan - Growth Option,Energy,6.561998,SIMULATED_DEMO_NOT_REAL
+120828,Quant Small Cap Fund - Direct Plan - Growth Option,Industrials,4.485459,SIMULATED_DEMO_NOT_REAL
+120828,Quant Small Cap Fund - Direct Plan - Growth Option,Real Estate,3.963873,SIMULATED_DEMO_NOT_REAL
+120828,Quant Small Cap Fund - Direct Plan - Growth Option,Utilities,14.353984,SIMULATED_DEMO_NOT_REAL
+120828,Quant Small Cap Fund - Direct Plan - Growth Option,Communication Services,31.496498,SIMULATED_DEMO_NOT_REAL
+120828,Quant Small Cap Fund - Direct Plan - Growth Option,Financial Services,33.689279,SIMULATED_DEMO_NOT_REAL
+120828,Quant Small Cap Fund - Direct Plan - Growth Option,Materials,3.194669,SIMULATED_DEMO_NOT_REAL
+120828,Quant Small Cap Fund - Direct Plan - Growth Option,Information Technology,2.25424,SIMULATED_DEMO_NOT_REAL
+125494,SBI SMALL CAP FUND - Regular Plan - Growth,Industrials,15.817078,SIMULATED_DEMO_NOT_REAL
+125494,SBI SMALL CAP FUND - Regular Plan - Growth,Healthcare,5.496256,SIMULATED_DEMO_NOT_REAL
+125494,SBI SMALL CAP FUND - Regular Plan - Growth,Information Technology,50.753378,SIMULATED_DEMO_NOT_REAL
+125494,SBI SMALL CAP FUND - Regular Plan - Growth,Utilities,15.664194,SIMULATED_DEMO_NOT_REAL
+125494,SBI SMALL CAP FUND - Regular Plan - Growth,Consumer Goods,12.269094,SIMULATED_DEMO_NOT_REAL
+147704,Motilal Oswal Large and Midcap Fund - Direct Plan - Growth,Utilities,27.226543,SIMULATED_DEMO_NOT_REAL
+147704,Motilal Oswal Large and Midcap Fund - Direct Plan - Growth,Healthcare,16.454624,SIMULATED_DEMO_NOT_REAL
+147704,Motilal Oswal Large and Midcap Fund - Direct Plan - Growth,Consumer Goods,32.341645,SIMULATED_DEMO_NOT_REAL
+147704,Motilal Oswal Large and Midcap Fund - Direct Plan - Growth,Real Estate,10.2173,SIMULATED_DEMO_NOT_REAL
+147704,Motilal Oswal Large and Midcap Fund - Direct Plan - Growth,Industrials,3.83957,SIMULATED_DEMO_NOT_REAL
+147704,Motilal Oswal Large and Midcap Fund - Direct Plan - Growth,Materials,9.920318,SIMULATED_DEMO_NOT_REAL
+119779,Kotak Global Emerging Market Overseas Equity Active FOF - Direct Plan - Growth,Energy,27.911314,SIMULATED_DEMO_NOT_REAL
+119779,Kotak Global Emerging Market Overseas Equity Active FOF - Direct Plan - Growth,Financial Services,6.190275,SIMULATED_DEMO_NOT_REAL
+119779,Kotak Global Emerging Market Overseas Equity Active FOF - Direct Plan - Growth,Communication Services,9.439582,SIMULATED_DEMO_NOT_REAL
+119779,Kotak Global Emerging Market Overseas Equity Active FOF - Direct Plan - Growth,Industrials,2.646217,SIMULATED_DEMO_NOT_REAL
+119779,Kotak Global Emerging Market Overseas Equity Active FOF - Direct Plan - Growth,Real Estate,19.805286,SIMULATED_DEMO_NOT_REAL
+119779,Kotak Global Emerging Market Overseas Equity Active FOF - Direct Plan - Growth,Information Technology,23.456177,SIMULATED_DEMO_NOT_REAL
+119779,Kotak Global Emerging Market Overseas Equity Active FOF - Direct Plan - Growth,Utilities,10.551149,SIMULATED_DEMO_NOT_REAL
+120323,ICICI Prudential Value Fund (erstwhile Value Discovery Fund) - Direct Plan - Growth,Energy,6.102692,SIMULATED_DEMO_NOT_REAL
+120323,ICICI Prudential Value Fund (erstwhile Value Discovery Fund) - Direct Plan - Growth,Industrials,2.454894,SIMULATED_DEMO_NOT_REAL
+120323,ICICI Prudential Value Fund (erstwhile Value Discovery Fund) - Direct Plan - Growth,Utilities,0.305361,SIMULATED_DEMO_NOT_REAL
+120323,ICICI Prudential Value Fund (erstwhile Value Discovery Fund) - Direct Plan - Growth,Financial Services,16.077462,SIMULATED_DEMO_NOT_REAL
+120323,ICICI Prudential Value Fund (erstwhile Value Discovery Fund) - Direct Plan - Growth,Communication Services,23.364839,SIMULATED_DEMO_NOT_REAL
+120323,ICICI Prudential Value Fund (erstwhile Value Discovery Fund) - Direct Plan - Growth,Real Estate,31.606629,SIMULATED_DEMO_NOT_REAL
+120323,ICICI Prudential Value Fund (erstwhile Value Discovery Fund) - Direct Plan - Growth,Information Technology,7.771915,SIMULATED_DEMO_NOT_REAL
+120323,ICICI Prudential Value Fund (erstwhile Value Discovery Fund) - Direct Plan - Growth,Healthcare,6.415913,SIMULATED_DEMO_NOT_REAL
+120323,ICICI Prudential Value Fund (erstwhile Value Discovery Fund) - Direct Plan - Growth,Consumer Goods,5.900295,SIMULATED_DEMO_NOT_REAL
+118955,HDFC Flexi Cap Fund - Direct Plan - Growth Option,Information Technology,12.088004,SIMULATED_DEMO_NOT_REAL
+118955,HDFC Flexi Cap Fund - Direct Plan - Growth Option,Utilities,25.70164,SIMULATED_DEMO_NOT_REAL
+118955,HDFC Flexi Cap Fund - Direct Plan - Growth Option,Industrials,2.134675,SIMULATED_DEMO_NOT_REAL
+118955,HDFC Flexi Cap Fund - Direct Plan - Growth Option,Healthcare,17.199292,SIMULATED_DEMO_NOT_REAL
+118955,HDFC Flexi Cap Fund - Direct Plan - Growth Option,Materials,1.401412,SIMULATED_DEMO_NOT_REAL
+118955,HDFC Flexi Cap Fund - Direct Plan - Growth Option,Consumer Goods,41.474977,SIMULATED_DEMO_NOT_REAL
+120716,UTI Nifty 50 Index Fund - Direct Plan - Growth,Financial Services,9.036319,SIMULATED_DEMO_NOT_REAL
+120716,UTI Nifty 50 Index Fund - Direct Plan - Growth,Real Estate,11.667923,SIMULATED_DEMO_NOT_REAL
+120716,UTI Nifty 50 Index Fund - Direct Plan - Growth,Utilities,20.653043,SIMULATED_DEMO_NOT_REAL
+120716,UTI Nifty 50 Index Fund - Direct Plan - Growth,Healthcare,0.57206,SIMULATED_DEMO_NOT_REAL
+120716,UTI Nifty 50 Index Fund - Direct Plan - Growth,Materials,1.501533,SIMULATED_DEMO_NOT_REAL
+120716,UTI Nifty 50 Index Fund - Direct Plan - Growth,Industrials,1.461436,SIMULATED_DEMO_NOT_REAL
+120716,UTI Nifty 50 Index Fund - Direct Plan - Growth,Information Technology,5.224039,SIMULATED_DEMO_NOT_REAL
+120716,UTI Nifty 50 Index Fund - Direct Plan - Growth,Energy,32.597089,SIMULATED_DEMO_NOT_REAL
+120716,UTI Nifty 50 Index Fund - Direct Plan - Growth,Communication Services,17.286558,SIMULATED_DEMO_NOT_REAL
+120684,ICICI Prudential Nifty Next 50 Index Fund - Direct Plan - Growth,Information Technology,22.111726,SIMULATED_DEMO_NOT_REAL
+120684,ICICI Prudential Nifty Next 50 Index Fund - Direct Plan - Growth,Utilities,4.795402,SIMULATED_DEMO_NOT_REAL
+120684,ICICI Prudential Nifty Next 50 Index Fund - Direct Plan - Growth,Industrials,10.827877,SIMULATED_DEMO_NOT_REAL
+120684,ICICI Prudential Nifty Next 50 Index Fund - Direct Plan - Growth,Communication Services,9.26112,SIMULATED_DEMO_NOT_REAL
+120684,ICICI Prudential Nifty Next 50 Index Fund - Direct Plan - Growth,Financial Services,2.241487,SIMULATED_DEMO_NOT_REAL
+120684,ICICI Prudential Nifty Next 50 Index Fund - Direct Plan - Growth,Consumer Goods,29.673959,SIMULATED_DEMO_NOT_REAL
+120684,ICICI Prudential Nifty Next 50 Index Fund - Direct Plan - Growth,Energy,21.088429,SIMULATED_DEMO_NOT_REAL
+149039,Navi Nifty 50 Index Fund - Direct Plan - Growth,Financial Services,6.896665,SIMULATED_DEMO_NOT_REAL
+149039,Navi Nifty 50 Index Fund - Direct Plan - Growth,Real Estate,11.95398,SIMULATED_DEMO_NOT_REAL
+149039,Navi Nifty 50 Index Fund - Direct Plan - Growth,Healthcare,24.973956,SIMULATED_DEMO_NOT_REAL
+149039,Navi Nifty 50 Index Fund - Direct Plan - Growth,Communication Services,16.987498,SIMULATED_DEMO_NOT_REAL
+149039,Navi Nifty 50 Index Fund - Direct Plan - Growth,Industrials,13.762917,SIMULATED_DEMO_NOT_REAL
+149039,Navi Nifty 50 Index Fund - Direct Plan - Growth,Materials,8.132457,SIMULATED_DEMO_NOT_REAL
+149039,Navi Nifty 50 Index Fund - Direct Plan - Growth,Utilities,17.292527,SIMULATED_DEMO_NOT_REAL
+145206,Tata Small Cap Fund - Direct Plan - Growth Option,Real Estate,12.889775,SIMULATED_DEMO_NOT_REAL
+145206,Tata Small Cap Fund - Direct Plan - Growth Option,Consumer Goods,9.710361,SIMULATED_DEMO_NOT_REAL
+145206,Tata Small Cap Fund - Direct Plan - Growth Option,Information Technology,17.043161,SIMULATED_DEMO_NOT_REAL
+145206,Tata Small Cap Fund - Direct Plan - Growth Option,Energy,8.894931,SIMULATED_DEMO_NOT_REAL
+145206,Tata Small Cap Fund - Direct Plan - Growth Option,Industrials,14.283312,SIMULATED_DEMO_NOT_REAL
+145206,Tata Small Cap Fund - Direct Plan - Growth Option,Communication Services,7.727567,SIMULATED_DEMO_NOT_REAL
+145206,Tata Small Cap Fund - Direct Plan - Growth Option,Financial Services,16.450729,SIMULATED_DEMO_NOT_REAL
+145206,Tata Small Cap Fund - Direct Plan - Growth Option,Healthcare,13.000163,SIMULATED_DEMO_NOT_REAL
+118535,Franklin India Flexi Cap Fund - Direct Plan - Growth,Industrials,4.690994,SIMULATED_DEMO_NOT_REAL
+118535,Franklin India Flexi Cap Fund - Direct Plan - Growth,Communication Services,3.49132,SIMULATED_DEMO_NOT_REAL
+118535,Franklin India Flexi Cap Fund - Direct Plan - Growth,Materials,2.078361,SIMULATED_DEMO_NOT_REAL
+118535,Franklin India Flexi Cap Fund - Direct Plan - Growth,Consumer Goods,8.616165,SIMULATED_DEMO_NOT_REAL
+118535,Franklin India Flexi Cap Fund - Direct Plan - Growth,Real Estate,24.017014,SIMULATED_DEMO_NOT_REAL
+118535,Franklin India Flexi Cap Fund - Direct Plan - Growth,Utilities,7.219246,SIMULATED_DEMO_NOT_REAL
+118535,Franklin India Flexi Cap Fund - Direct Plan - Growth,Information Technology,21.597473,SIMULATED_DEMO_NOT_REAL
+118535,Franklin India Flexi Cap Fund - Direct Plan - Growth,Energy,28.289427,SIMULATED_DEMO_NOT_REAL
+119071,DSP Midcap Fund - Direct Plan - Growth,Materials,31.35999,SIMULATED_DEMO_NOT_REAL
+119071,DSP Midcap Fund - Direct Plan - Growth,Financial Services,1.444334,SIMULATED_DEMO_NOT_REAL
+119071,DSP Midcap Fund - Direct Plan - Growth,Utilities,20.011384,SIMULATED_DEMO_NOT_REAL
+119071,DSP Midcap Fund - Direct Plan - Growth,Industrials,21.238442,SIMULATED_DEMO_NOT_REAL
+119071,DSP Midcap Fund - Direct Plan - Growth,Energy,25.94585,SIMULATED_DEMO_NOT_REAL
+140228,Edelweiss Mid Cap Fund - Direct Plan - Growth,Energy,21.385245,SIMULATED_DEMO_NOT_REAL
+140228,Edelweiss Mid Cap Fund - Direct Plan - Growth,Industrials,13.662906,SIMULATED_DEMO_NOT_REAL
+140228,Edelweiss Mid Cap Fund - Direct Plan - Growth,Utilities,14.566026,SIMULATED_DEMO_NOT_REAL
+140228,Edelweiss Mid Cap Fund - Direct Plan - Growth,Communication Services,12.196668,SIMULATED_DEMO_NOT_REAL
+140228,Edelweiss Mid Cap Fund - Direct Plan - Growth,Financial Services,18.831224,SIMULATED_DEMO_NOT_REAL
+140228,Edelweiss Mid Cap Fund - Direct Plan - Growth,Information Technology,4.732786,SIMULATED_DEMO_NOT_REAL
+140228,Edelweiss Mid Cap Fund - Direct Plan - Growth,Real Estate,14.625145,SIMULATED_DEMO_NOT_REAL
+147946,BANDHAN Small Cap Fund - Direct Plan - Growth,Energy,9.5807,SIMULATED_DEMO_NOT_REAL
+147946,BANDHAN Small Cap Fund - Direct Plan - Growth,Consumer Goods,9.638688,SIMULATED_DEMO_NOT_REAL
+147946,BANDHAN Small Cap Fund - Direct Plan - Growth,Communication Services,11.621847,SIMULATED_DEMO_NOT_REAL
+147946,BANDHAN Small Cap Fund - Direct Plan - Growth,Financial Services,2.723505,SIMULATED_DEMO_NOT_REAL
+147946,BANDHAN Small Cap Fund - Direct Plan - Growth,Real Estate,9.880322,SIMULATED_DEMO_NOT_REAL
+147946,BANDHAN Small Cap Fund - Direct Plan - Growth,Materials,32.863681,SIMULATED_DEMO_NOT_REAL
+147946,BANDHAN Small Cap Fund - Direct Plan - Growth,Utilities,12.282315,SIMULATED_DEMO_NOT_REAL
+147946,BANDHAN Small Cap Fund - Direct Plan - Growth,Healthcare,11.408941,SIMULATED_DEMO_NOT_REAL
+108097,HSBC Small Cap Fund - Growth,Utilities,18.029713,SIMULATED_DEMO_NOT_REAL
+108097,HSBC Small Cap Fund - Growth,Healthcare,8.834393,SIMULATED_DEMO_NOT_REAL
+108097,HSBC Small Cap Fund - Growth,Financial Services,5.160045,SIMULATED_DEMO_NOT_REAL
+108097,HSBC Small Cap Fund - Growth,Energy,11.528147,SIMULATED_DEMO_NOT_REAL
+108097,HSBC Small Cap Fund - Growth,Materials,1.398287,SIMULATED_DEMO_NOT_REAL
+108097,HSBC Small Cap Fund - Growth,Information Technology,17.888716,SIMULATED_DEMO_NOT_REAL
+108097,HSBC Small Cap Fund - Growth,Industrials,17.004457,SIMULATED_DEMO_NOT_REAL
+108097,HSBC Small Cap Fund - Growth,Consumer Goods,4.162457,SIMULATED_DEMO_NOT_REAL
+108097,HSBC Small Cap Fund - Growth,Communication Services,13.976156,SIMULATED_DEMO_NOT_REAL
+108097,HSBC Small Cap Fund - Growth,Real Estate,2.017628,SIMULATED_DEMO_NOT_REAL
+112114,Aditya Birla Sun Life Frontline Equity Fund-Plan B (Growth),Utilities,8.949218,SIMULATED_DEMO_NOT_REAL
+112114,Aditya Birla Sun Life Frontline Equity Fund-Plan B (Growth),Communication Services,11.811688,SIMULATED_DEMO_NOT_REAL
+112114,Aditya Birla Sun Life Frontline Equity Fund-Plan B (Growth),Industrials,12.929911,SIMULATED_DEMO_NOT_REAL
+112114,Aditya Birla Sun Life Frontline Equity Fund-Plan B (Growth),Materials,32.943625,SIMULATED_DEMO_NOT_REAL
+112114,Aditya Birla Sun Life Frontline Equity Fund-Plan B (Growth),Consumer Goods,19.09092,SIMULATED_DEMO_NOT_REAL
+112114,Aditya Birla Sun Life Frontline Equity Fund-Plan B (Growth),Financial Services,14.274638,SIMULATED_DEMO_NOT_REAL
+119160,Tata Large Cap Fund - Direct Plan - Growth Option,Industrials,0.353978,SIMULATED_DEMO_NOT_REAL
+119160,Tata Large Cap Fund - Direct Plan - Growth Option,Materials,32.484028,SIMULATED_DEMO_NOT_REAL
+119160,Tata Large Cap Fund - Direct Plan - Growth Option,Consumer Goods,8.573375,SIMULATED_DEMO_NOT_REAL
+119160,Tata Large Cap Fund - Direct Plan - Growth Option,Utilities,6.266344,SIMULATED_DEMO_NOT_REAL
+119160,Tata Large Cap Fund - Direct Plan - Growth Option,Information Technology,22.031769,SIMULATED_DEMO_NOT_REAL
+119160,Tata Large Cap Fund - Direct Plan - Growth Option,Energy,25.39656,SIMULATED_DEMO_NOT_REAL
+119160,Tata Large Cap Fund - Direct Plan - Growth Option,Healthcare,4.893946,SIMULATED_DEMO_NOT_REAL
+120186,ICICI Prudential US Bluechip Equity Fund - Direct Plan - Growth,Consumer Goods,8.809252,SIMULATED_DEMO_NOT_REAL
+120186,ICICI Prudential US Bluechip Equity Fund - Direct Plan - Growth,Real Estate,4.58333,SIMULATED_DEMO_NOT_REAL
+120186,ICICI Prudential US Bluechip Equity Fund - Direct Plan - Growth,Materials,9.044974,SIMULATED_DEMO_NOT_REAL
+120186,ICICI Prudential US Bluechip Equity Fund - Direct Plan - Growth,Utilities,25.249423,SIMULATED_DEMO_NOT_REAL
+120186,ICICI Prudential US Bluechip Equity Fund - Direct Plan - Growth,Healthcare,10.657509,SIMULATED_DEMO_NOT_REAL
+120186,ICICI Prudential US Bluechip Equity Fund - Direct Plan - Growth,Information Technology,4.588902,SIMULATED_DEMO_NOT_REAL
+120186,ICICI Prudential US Bluechip Equity Fund - Direct Plan - Growth,Energy,22.170666,SIMULATED_DEMO_NOT_REAL
+120186,ICICI Prudential US Bluechip Equity Fund - Direct Plan - Growth,Communication Services,14.895943,SIMULATED_DEMO_NOT_REAL
+120505,Axis Midcap Fund - Direct Plan - Growth Option,Financial Services,33.060756,SIMULATED_DEMO_NOT_REAL
+120505,Axis Midcap Fund - Direct Plan - Growth Option,Real Estate,8.895937,SIMULATED_DEMO_NOT_REAL
+120505,Axis Midcap Fund - Direct Plan - Growth Option,Utilities,5.811082,SIMULATED_DEMO_NOT_REAL
+120505,Axis Midcap Fund - Direct Plan - Growth Option,Energy,5.476538,SIMULATED_DEMO_NOT_REAL
+120505,Axis Midcap Fund - Direct Plan - Growth Option,Healthcare,16.143454,SIMULATED_DEMO_NOT_REAL
+120505,Axis Midcap Fund - Direct Plan - Growth Option,Industrials,8.994177,SIMULATED_DEMO_NOT_REAL
+120505,Axis Midcap Fund - Direct Plan - Growth Option,Materials,7.586247,SIMULATED_DEMO_NOT_REAL
+120505,Axis Midcap Fund - Direct Plan - Growth Option,Information Technology,5.589954,SIMULATED_DEMO_NOT_REAL
+120505,Axis Midcap Fund - Direct Plan - Growth Option,Communication Services,8.441855,SIMULATED_DEMO_NOT_REAL
+120662,UTI - Flexi Cap Fund. - Direct Plan - Growth,Consumer Goods,19.637513,SIMULATED_DEMO_NOT_REAL
+120662,UTI - Flexi Cap Fund. - Direct Plan - Growth,Healthcare,9.794979,SIMULATED_DEMO_NOT_REAL
+120662,UTI - Flexi Cap Fund. - Direct Plan - Growth,Energy,10.781662,SIMULATED_DEMO_NOT_REAL
+120662,UTI - Flexi Cap Fund. - Direct Plan - Growth,Communication Services,36.853343,SIMULATED_DEMO_NOT_REAL
+120662,UTI - Flexi Cap Fund. - Direct Plan - Growth,Real Estate,4.902675,SIMULATED_DEMO_NOT_REAL
+120662,UTI - Flexi Cap Fund. - Direct Plan - Growth,Industrials,18.029828,SIMULATED_DEMO_NOT_REAL
+119835,SBI CONTRA FUND - Direct Plan - Growth,Industrials,2.594973,SIMULATED_DEMO_NOT_REAL
+119835,SBI CONTRA FUND - Direct Plan - Growth,Information Technology,8.408986,SIMULATED_DEMO_NOT_REAL
+119835,SBI CONTRA FUND - Direct Plan - Growth,Real Estate,9.805569,SIMULATED_DEMO_NOT_REAL
+119835,SBI CONTRA FUND - Direct Plan - Growth,Financial Services,10.03937,SIMULATED_DEMO_NOT_REAL
+119835,SBI CONTRA FUND - Direct Plan - Growth,Utilities,7.752832,SIMULATED_DEMO_NOT_REAL
+119835,SBI CONTRA FUND - Direct Plan - Growth,Energy,5.475712,SIMULATED_DEMO_NOT_REAL
+119835,SBI CONTRA FUND - Direct Plan - Growth,Materials,6.415983,SIMULATED_DEMO_NOT_REAL
+119835,SBI CONTRA FUND - Direct Plan - Growth,Healthcare,4.809817,SIMULATED_DEMO_NOT_REAL
+119835,SBI CONTRA FUND - Direct Plan - Growth,Communication Services,27.562887,SIMULATED_DEMO_NOT_REAL
+119835,SBI CONTRA FUND - Direct Plan - Growth,Consumer Goods,17.133872,SIMULATED_DEMO_NOT_REAL
+148457,Nippon India Multi Asset Allocation Fund - Direct Plan - Growth Option,Communication Services,1.936577,SIMULATED_DEMO_NOT_REAL
+148457,Nippon India Multi Asset Allocation Fund - Direct Plan - Growth Option,Real Estate,4.246192,SIMULATED_DEMO_NOT_REAL
+148457,Nippon India Multi Asset Allocation Fund - Direct Plan - Growth Option,Financial Services,31.485032,SIMULATED_DEMO_NOT_REAL
+148457,Nippon India Multi Asset Allocation Fund - Direct Plan - Growth Option,Industrials,19.659133,SIMULATED_DEMO_NOT_REAL
+148457,Nippon India Multi Asset Allocation Fund - Direct Plan - Growth Option,Materials,42.673066,SIMULATED_DEMO_NOT_REAL
+130503,HDFC Small Cap Fund - Direct Plan - Growth Option,Communication Services,29.53471,SIMULATED_DEMO_NOT_REAL
+130503,HDFC Small Cap Fund - Direct Plan - Growth Option,Financial Services,8.083983,SIMULATED_DEMO_NOT_REAL
+130503,HDFC Small Cap Fund - Direct Plan - Growth Option,Consumer Goods,20.169491,SIMULATED_DEMO_NOT_REAL
+130503,HDFC Small Cap Fund - Direct Plan - Growth Option,Materials,13.924938,SIMULATED_DEMO_NOT_REAL
+130503,HDFC Small Cap Fund - Direct Plan - Growth Option,Industrials,6.219757,SIMULATED_DEMO_NOT_REAL
+130503,HDFC Small Cap Fund - Direct Plan - Growth Option,Utilities,4.84609,SIMULATED_DEMO_NOT_REAL
+130503,HDFC Small Cap Fund - Direct Plan - Growth Option,Information Technology,10.265353,SIMULATED_DEMO_NOT_REAL
+130503,HDFC Small Cap Fund - Direct Plan - Growth Option,Energy,6.955679,SIMULATED_DEMO_NOT_REAL
+135800,Tata Digital India Fund - Direct Plan - Growth Option,Utilities,20.455455,SIMULATED_DEMO_NOT_REAL
+135800,Tata Digital India Fund - Direct Plan - Growth Option,Materials,3.234136,SIMULATED_DEMO_NOT_REAL
+135800,Tata Digital India Fund - Direct Plan - Growth Option,Real Estate,45.763883,SIMULATED_DEMO_NOT_REAL
+135800,Tata Digital India Fund - Direct Plan - Growth Option,Financial Services,6.444284,SIMULATED_DEMO_NOT_REAL
+135800,Tata Digital India Fund - Direct Plan - Growth Option,Consumer Goods,0.06622,SIMULATED_DEMO_NOT_REAL
+135800,Tata Digital India Fund - Direct Plan - Growth Option,Communication Services,6.70556,SIMULATED_DEMO_NOT_REAL
+135800,Tata Digital India Fund - Direct Plan - Growth Option,Information Technology,17.330461,SIMULATED_DEMO_NOT_REAL
+120578,SBI TECHNOLOGY OPPORTUNITIES FUND - Direct Plan - Growth,Industrials,5.050306,SIMULATED_DEMO_NOT_REAL
+120578,SBI TECHNOLOGY OPPORTUNITIES FUND - Direct Plan - Growth,Real Estate,14.886192,SIMULATED_DEMO_NOT_REAL
+120578,SBI TECHNOLOGY OPPORTUNITIES FUND - Direct Plan - Growth,Consumer Goods,20.399894,SIMULATED_DEMO_NOT_REAL
+120578,SBI TECHNOLOGY OPPORTUNITIES FUND - Direct Plan - Growth,Information Technology,6.901356,SIMULATED_DEMO_NOT_REAL
+120578,SBI TECHNOLOGY OPPORTUNITIES FUND - Direct Plan - Growth,Materials,17.025659,SIMULATED_DEMO_NOT_REAL
+120578,SBI TECHNOLOGY OPPORTUNITIES FUND - Direct Plan - Growth,Healthcare,21.314463,SIMULATED_DEMO_NOT_REAL
+120578,SBI TECHNOLOGY OPPORTUNITIES FUND - Direct Plan - Growth,Energy,14.42213,SIMULATED_DEMO_NOT_REAL
+118759,Nippon India Pharma Fund - Direct Plan - Growth Option,Energy,12.674843,SIMULATED_DEMO_NOT_REAL
+118759,Nippon India Pharma Fund - Direct Plan - Growth Option,Communication Services,0.53625,SIMULATED_DEMO_NOT_REAL
+118759,Nippon India Pharma Fund - Direct Plan - Growth Option,Real Estate,16.520391,SIMULATED_DEMO_NOT_REAL
+118759,Nippon India Pharma Fund - Direct Plan - Growth Option,Consumer Goods,2.444582,SIMULATED_DEMO_NOT_REAL
+118759,Nippon India Pharma Fund - Direct Plan - Growth Option,Utilities,3.912511,SIMULATED_DEMO_NOT_REAL
+118759,Nippon India Pharma Fund - Direct Plan - Growth Option,Healthcare,7.173451,SIMULATED_DEMO_NOT_REAL
+118759,Nippon India Pharma Fund - Direct Plan - Growth Option,Information Technology,10.43354,SIMULATED_DEMO_NOT_REAL
+118759,Nippon India Pharma Fund - Direct Plan - Growth Option,Financial Services,34.916342,SIMULATED_DEMO_NOT_REAL
+118759,Nippon India Pharma Fund - Direct Plan - Growth Option,Materials,2.750328,SIMULATED_DEMO_NOT_REAL
+118759,Nippon India Pharma Fund - Direct Plan - Growth Option,Industrials,8.637763,SIMULATED_DEMO_NOT_REAL
